@@ -11,3 +11,34 @@
 *datasets contains transactions made by credit cards in September by european cardholders.
 
 *The dataset can be found here https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+
+
+# PREREQUISITES:
+
+Python 3.x.
+
+Libraries:
+
+
+Pandas
+
+
+
+Sklearn
+
+
+
+Numpy
+
+
+
+Matplotlib
+
+
+
+re
+
+
+
+Random
